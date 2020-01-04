@@ -27,11 +27,7 @@ To remove all hardware required to control traffic signals in order to provide e
 Decision Tree Regression|Random Forest Regression
 --------------------|------------------------
 Single Tree|*Ensemble* learning
-Very flexible model – overfitting occurs and hence bias is very high|Trees are formed on:
-                                                                     * Random Sampling on training data points when building trees
-                                                                     * Random subsets of features while splitting nodes
-                                                                    |Avoids *overfitting*
-                                                                    |Robust for Outliers
+Very flexible model – overfitting occurs and hence bias is very high|Trees are formed on random samples and random subsets so overfitting is avoided                                                                  
 
  
 
