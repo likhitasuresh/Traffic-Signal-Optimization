@@ -26,9 +26,12 @@ To remove all hardware required to control traffic signals in order to provide e
 # **Picking the right algorithm**
 Decision Tree Regression|Random Forest Regression
 --------------------|------------------------
-Single Tree|*Ensemble* learning
+Single Tree|*Ensemble* learning with multiple trees
 Very flexible model – overfitting occurs and hence bias is very high|Trees are formed on random samples and random subsets so overfitting is avoided                                                                  
 
+Below are graph variations for traffic patterns on different days of the week:
+
+Below are graph variations for traffic signal timer based on traffic patterns on different days of the week:
  
 
 
