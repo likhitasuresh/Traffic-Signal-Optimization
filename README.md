@@ -14,12 +14,22 @@ traffic signal optimization according to the day and the time.
 * Weather conditions
 * Temperature
 
-## **Machine Learning Technique used**
-# Randomm Forest Regression
+## **Machine Learning Technique used - Random Forest Regression**
+
 In this type of regression, we can observe
 * Additive model viz., summation of multiple decision trees 
 * Sampling done with replacement ~ Bagging (bootstrap aggregating)
 
+![random](screenshots/random_forest.png)
+
 Attached are traffic and signal timer patterns based on the four parameters through the week:
 
-![traffic](screenshots/
+![traffic](screenshots/traffic_gif.gif)
+
+
+*Graph plotted with time taken (for vehicle to reach from point A to point B across a specific road) vs time of the day*
+
+![timer](screenshots/timer_gif.gif)
+
+
+*Graph plotted with signal timer vs time taken (for vehicle to reach from point A to point B across a specific road)*
