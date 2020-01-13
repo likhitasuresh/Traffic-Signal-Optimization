@@ -1,6 +1,8 @@
 # **Traffic-Signal-Optimization**
 Python project that implemented Machine Learning algorithms to optimize the functionalities of the current traffic signal system.
 
+Dated: Jan-May 2019
+
 ## **Objective**
 * The project is aimed at building an efficient system that will help in optimizing the existing traffic signal system.
 * It will use a traffic density as the main input parameter and automatically adjust the traffic signal timer accordingly
